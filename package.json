@@ -1,0 +1,12 @@
+{
+  "name": "planfix-messenger-bridge-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "demo": "node scripts/demo.js",
+    "test": "node test/bridge.test.js"
+  },
+  "engines": { "node": ">=20" }
+}
